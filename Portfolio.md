@@ -14,6 +14,8 @@
 - [Sexy Hacking](https://globalgamejam.org/2018/games/sexy-hacking-%E3%82%A8%E3%83%AD%E3%81%84%E3%83%98%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0-%E6%80%A7%E6%84%9F%E9%AA%87%E5%AE%A2) *Global Game Jam 2018*, Programmer
 ### Other Projects
 - Railway Simulation System
+
 Programmer
+
 It's a system that simulates railway functionalities. It includes a bezier based rails, turn-outs, and signal lights. Trains can run on the railway network built with these things. The system works with a external controller program, which controls the spawn of the trains and the status of the turn-outs.
 ### [Download Executables (ONE DRIVE)](https://1drv.ms/f/s!AgO0uTXGovlgjhl8nkTEZt0zgGQM)
