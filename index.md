@@ -6,7 +6,7 @@ My nickname is Xaiverseal. From China. Studying Information Science in Hosei Uni
 - Game Development
 - Movies
 - Music
-##Links
+## Links
 - [Portfolio](Portfolio)
 - [GitHub](https://github.com/xvrsl)
 - [Bilibili Channel](https://space.bilibili.com/248322)
