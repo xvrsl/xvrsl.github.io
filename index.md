@@ -1,5 +1,5 @@
 # Welcome to the page of Xavierseal
-##Introduction
+## Introduction
 ### Basic Information
 My nickname is Xaiverseal. From China. Studying Information Science in Hosei University.
 ### Hobbies
