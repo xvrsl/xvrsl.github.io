@@ -10,5 +10,5 @@
 ### My Own Projects
 - [Five Cubes](https://developer.cloud.unity3d.com/share/share.html?shareId=ZkiosDOgLz) A five in a row game, but in 3D.
 - [Sokobaniac](https://gamejolt.com/games/sokobaniac/384430) A game for testing the sokoban level generator I created.
-- [Firefly Squadron](https://github.com/xvrsl/FireflySquadron) [UNFINNISHED] A turn-based strategy dogfight game inspired by an old game (I can't remenber the name of the game).
-- [XSWL](https://github.com/xvrsl/UXSWL) [UNFINNISHED] An attempt to realize a high level script language for the plot of narrative games. Didn't finish it. But anyway, the basic idea works.
+- [Firefly Squadron](https://github.com/xvrsl/FireflySquadron) *UNFINNISHED* A turn-based strategy dogfight game inspired by an old game (I can't remenber the name of the game).
+- [XSWL](https://github.com/xvrsl/UXSWL) *UNFINNISHED* An attempt to realize a high level script language for the plot of narrative games. Didn't finish it. But anyway, the basic idea works.
