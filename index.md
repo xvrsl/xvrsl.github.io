@@ -4,7 +4,7 @@
 My nickname is Xaiverseal. From China. Studying Information Science in Hosei University.
 ### Hobbies
 - Game Development
-- Movies
+- Art
 - Music
 ## Links
 - [Portfolio](Portfolio)
